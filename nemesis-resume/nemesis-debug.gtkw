@@ -1,0 +1,51 @@
+[*]
+[*] GTKWave Analyzer v3.3.94 (w)1999-2018 BSI
+[*] Sun Nov 11 21:19:36 2018
+[*]
+[dumpfile] "/home/sven/sancus-main/sancus-examples/nemesis/sancus_sim.fst"
+[dumpfile_mtime] "Sun Nov 11 20:59:42 2018"
+[dumpfile_size] 5450330
+[savefile] "/home/sven/sancus-main/sancus-examples/nemesis/nemesis-debug.gtkw"
+[timestart] 2280942000
+[size] 1366 688
+[pos] -1 -1
+*-18.000000 2282706000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_openMSP430.
+[sst_width] 252
+[signals_width] 214
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+tb_openMSP430.mclk
+@22
+tb_openMSP430.current_inst_pc[15:0]
+@820
+tb_openMSP430.inst_full[255:0]
+@23
+tb_openMSP430.r0[15:0]
+@22
+tb_openMSP430.r1[15:0]
+tb_openMSP430.r2[15:0]
+tb_openMSP430.r3[15:0]
+tb_openMSP430.r4[15:0]
+tb_openMSP430.r5[15:0]
+tb_openMSP430.r6[15:0]
+tb_openMSP430.r7[15:0]
+tb_openMSP430.r8[15:0]
+tb_openMSP430.r9[15:0]
+tb_openMSP430.r10[15:0]
+tb_openMSP430.r11[15:0]
+tb_openMSP430.r12[15:0]
+tb_openMSP430.r13[15:0]
+tb_openMSP430.r14[15:0]
+tb_openMSP430.r15[15:0]
+tb_openMSP430.timerA_0.tar[15:0]
+tb_openMSP430.timerA_0.taccr0[15:0]
+tb_openMSP430.timerA_0.tactl[9:0]
+tb_openMSP430.sm_0_public_start[15:0]
+tb_openMSP430.sm_0_secret_end[15:0]
+@28
+tb_openMSP430.irq_ta0
+tb_openMSP430.irq_ta1
+[pattern_trace] 1
+[pattern_trace] 0

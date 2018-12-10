@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.94 (w)1999-2018 BSI
+[*] Sun Dec  2 23:12:58 2018
+[*]
+[dumpfile] "/home/sven/sancus-main/sancus-examples/TOCTOU-verify/sancus_sim.fst"
+[dumpfile_mtime] "Sun Dec  2 23:10:46 2018"
+[dumpfile_size] 18389916
+[savefile] "/home/sven/sancus-main/sancus-examples/TOCTOU-verify/toctou-verify-debug.gtkw"
+[timestart] 4804070000
+[size] 1366 688
+[pos] -1 -1
+*-23.871140 4861975000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_openMSP430.
+[sst_width] 222
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+tb_openMSP430.mclk
+@22
+tb_openMSP430.current_inst_pc[15:0]
+@820
+tb_openMSP430.inst_full[255:0]
+@821
+tb_openMSP430.e_state[255:0]
+@22
+tb_openMSP430.timerA_0.tar[15:0]
+tb_openMSP430.timerA_0.taccr0[15:0]
+tb_openMSP430.timerA_0.tactl[9:0]
+tb_openMSP430.r1[15:0]
+tb_openMSP430.r2[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

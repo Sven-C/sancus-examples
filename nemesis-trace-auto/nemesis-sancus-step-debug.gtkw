@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.94 (w)1999-2018 BSI
+[*] Tue Nov 27 14:06:49 2018
+[*]
+[dumpfile] "/home/sven/sancus-main/sancus-examples/nemesis-sancus-step/sancus_sim.fst"
+[dumpfile_mtime] "Tue Nov 27 11:29:40 2018"
+[dumpfile_size] 20579717
+[savefile] "/home/sven/sancus-main/sancus-examples/nemesis-sancus-step/nemesis-sancus-step-debug.gtkw"
+[timestart] 32589733000
+[size] 1366 688
+[pos] -1 -1
+*-18.000000 32576193000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_openMSP430.
+[treeopen] tb_openMSP430.timerA_0.
+[sst_width] 222
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 175
+@28
+tb_openMSP430.mclk
+@22
+tb_openMSP430.current_inst_pc[15:0]
+@820
+tb_openMSP430.inst_full[255:0]
+@22
+tb_openMSP430.timerA_0.tar[15:0]
+tb_openMSP430.timerA_0.taccr0[15:0]
+tb_openMSP430.timerA_0.tactl[9:0]
+tb_openMSP430.r1[15:0]
+@23
+tb_openMSP430.r2[15:0]
+[pattern_trace] 1
+[pattern_trace] 0
